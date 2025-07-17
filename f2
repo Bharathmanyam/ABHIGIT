@@ -1,0 +1,4 @@
+git add .
+git commit -m "add f2 file"
+git push origin master 
+
